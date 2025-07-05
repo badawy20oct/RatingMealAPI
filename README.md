@@ -1,0 +1,2 @@
+# RatingMealAPI
+Python Django
